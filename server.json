@@ -1,0 +1,85 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "img": "https://th.bing.com/th/id/OIP.J713t6KgpMa6j5dXb9AiXQHaHa?w=178&h=180&c=7&o=5&dpr=1.25&pid=1.7",
+      "nome": "Banana",
+      "tipo": "Fruta",
+      "preco": 2,
+      "selecionado": false,
+      "qtd": 0
+    },
+    {
+      "id": 2,
+      "img": "https://th.bing.com/th/id/OIP.GmAP8U5rEWzWR1bxwPPYyQHaE5?w=234&h=180&c=7&o=5&dpr=1.25&pid=1.7",
+      "nome": "Coxinha",
+      "tipo": "Salgado",
+      "preco": 1,
+      "selecionado": false,
+      "qtd": 0
+    },
+    {
+      "id": 3,
+      "img": "https://th.bing.com/th/id/OIP.JHpE6py2VBVd4vHF4MxDKAHaEU?w=263&h=180&c=7&o=5&dpr=1.25&pid=1.7",
+      "nome": "Pastel",
+      "tipo": "Salgado",
+      "preco": 5,
+      "selecionado": true,
+      "qtd": 2
+    },
+    {
+      "id": 4,
+      "img": "https://th.bing.com/th/id/OIP.u9zL6CQPUK1bzNEgYx6-6AHaHa?w=184&h=184&c=7&o=5&dpr=1.25&pid=1.7",
+      "nome": "Coca",
+      "tipo": "Bebida",
+      "preco": 8,
+      "selecionado": false,
+      "qtd": 0
+    },
+    {
+      "id": 5,
+      "img": "https://th.bing.com/th/id/OIP.cnI0kmgZ8g1T5jQvEOsNmAHaHa?w=201&h=201&c=7&o=5&dpr=1.25&pid=1.7",
+      "nome": "Fanta",
+      "tipo": "Bebida",
+      "preco": 2,
+      "selecionado": false,
+      "qtd": 0
+    },
+    {
+      "id": 6,
+      "img": "https://th.bing.com/th/id/OIP.4bQWa0DY6YkyH5_ZKmDQNAHaHa?w=176&h=180&c=7&o=5&dpr=1.25&pid=1.7",
+      "nome": "Maça",
+      "tipo": "Fruta",
+      "preco": 2,
+      "selecionado": false,
+      "qtd": 0
+    },
+    {
+      "id": 7,
+      "img": "https://th.bing.com/th/id/OIP.PAEsnlpnWygvWZ45UVryEgHaFE?w=302&h=206&c=7&o=5&dpr=1.25&pid=1.7",
+      "nome": "Laranja",
+      "tipo": "Fruta",
+      "preco": 2,
+      "selecionado": false,
+      "qtd": 0
+    },
+    {
+      "id": 8,
+      "img": "https://th.bing.com/th/id/OIP.hGvWo3na2uZqWMQg7TOptAHaEt?w=254&h=180&c=7&o=5&dpr=1.25&pid=1.7",
+      "nome": "Melância",
+      "tipo": "Fruta",
+      "preco": 5,
+      "selecionado": false,
+      "qtd": 0
+    },
+    {
+      "id": 9,
+      "img": "https://th.bing.com/th/id/OIP.KOhOyx3HEt6lvKTBNyDVFwHaE8?w=256&h=180&c=7&o=5&dpr=1.25&pid=1.7",
+      "nome": "Lanche",
+      "tipo": "Salgado",
+      "preco": 9,
+      "selecionado": false,
+      "qtd": 0
+    }
+  ]
+}
